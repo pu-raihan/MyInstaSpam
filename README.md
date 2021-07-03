@@ -1,6 +1,7 @@
 # MyInstaSpam
-This is a python based program for linux.<br/>
-This program helps to send numerous messages on Instagram at a click.<br/>
+MyInstaSpam is for sending numerous customised messages on Instagram at a click.<br/>
+Language : *Python*<br/>
+Operating System : *Linux*<br/>
 **Disclaimer :-**
 * This program is for educational purposes...Don't try to use for spamming.
 * It requires a public instagram account without 2 factor verification(try not to use personal accounts).
