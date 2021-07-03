@@ -8,4 +8,6 @@ Operating System : *Linux*<br/>
 * Google Chrome or Mozilla Firefox browser is required mandatorily.
 * If the drivers are incompatible, you can manually download them from the sites given<br/>
 [Chrome driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)<br/>
-[Gecko driver(for firefox)](https://github.com/mozilla/geckodriver/releases)
+[Gecko driver(for firefox)](https://github.com/mozilla/geckodriver/releases)<br/>
+For more info and help, follow me on Instagram<br/>
+[@moh_d_raihan](https://www.instagram.com/moh_d_raihan)
