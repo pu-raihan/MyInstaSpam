@@ -3,11 +3,11 @@ MyInstaSpam is for sending numerous customised messages on Instagram at a click.
 Language : *Python*<br/>
 Operating System : *Linux*<br/>
 #Insatallaton
-1. Open terminal and type `<git clone https://github.com/mohraihan/MyInstaSpam>`
-2. Execute the command `<cd MyInstaSpam >`
-3. Then `<chmod +x instal.sh>`
-4. `<./install.sh>`
-5. Then execute `<python3 myinsta.py>`
+1. Open terminal and type `git clone https://github.com/mohraihan/MyInstaSpam`
+2. Execute the command `cd MyInstaSpam`
+3. Then `chmod +x instal.sh`
+4. `./install.sh`
+5. Then execute `python3 myinsta.py`<br>
 **Disclaimer :-**
 * This program is for educational purposes...Don't try to use for spamming.
 * It requires a public instagram account without 2 factor verification(try not to use personal accounts).
