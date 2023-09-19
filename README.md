@@ -1,5 +1,5 @@
 # MyInstaSpam
-MyInstaSpam is for sending numerous customised messages on Instagram at a click.<br/>
+MyInstaSpam is for sending numerous customised messages on Instagram at a click. This uses Selenium driver<br/>
 Language : *Python*<br/>
 Operating System : *Linux*<br/>
 # Insatallaton
