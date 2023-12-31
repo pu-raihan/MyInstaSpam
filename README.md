@@ -31,4 +31,4 @@ Language : *Python*<br/>
 [Chrome driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)<br/>
 [Gecko driver(for firefox)](https://github.com/mozilla/geckodriver/releases)<br/>
 For more info and help, follow me on Instagram<br/>
-:feelsgood:[@moh_d_raihan](https://www.instagram.com/raihan.io)
+:feelsgood:[@raihan.io](https://www.instagram.com/raihan.io)
